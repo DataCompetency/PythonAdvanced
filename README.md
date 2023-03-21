@@ -51,11 +51,9 @@ IPython widgets allow interactive GUI elements to be used in Jupyter notebooks w
 
 **If you're already connected via Wifi to eduroam or via LAN in the university,** you can access the JupyterHub, a Jupyter Notebook server runnning in the university cloud. As a student or employee of the university, you can use your default login credentials to login here
     
-[https://jupyterhub.wolke.uni-greifswald.de/hub/login](https://jupyterhub.wolke.uni-greifswald.de/hub/login)
-    
+[https://apphub.wolke.uni-greifswald.de/](https://apphub.wolke.uni-greifswald.de/)
 
-**then simply choose "Datascience" as server type.**
-You should see then a **Launcher-Tab** where you can choose to open a new **Python 3 Notebook** or a Linux terminal.
+**then login with your credentials and choose "Datascience" as server type.**
     
 ### Option 3: Use JupterHub remotely from home or anywhere else
     
@@ -67,7 +65,7 @@ You should see then a **Launcher-Tab** where you can choose to open a new **Pyth
     
 ```
 %%bash
-git clone https://github.com/fwilde/pyadv2
+git clone https://github.com/DataCompetency/PythonAdvanced
 ```
 
 into a cell of a new notebook and then execute the cell with **CTRL + Enter**.
@@ -75,7 +73,7 @@ into a cell of a new notebook and then execute the cell with **CTRL + Enter**.
 **If you're using a locally installed version of Anaconda**, simply go to an arbitrary directory and clone the github repository with the course materials using the following command in a terminal:    
    
 ```
-git clone https://github.com/fwilde/pyadv2
+git clone https://github.com/DataCompetency/PythonAdvanced
 ```
     
 Then simply open one of the Jupyter notebooks. **Have fun !**
