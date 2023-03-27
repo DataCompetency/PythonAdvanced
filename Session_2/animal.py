@@ -41,3 +41,4 @@ class PolarBear(Animal):
     def __del__(self):
         """Destructor, is called when an object is deleted"""
         print(f"Please don't... {self._name} is crying.")
+        super().__del__()
