@@ -13,7 +13,7 @@ The course materials consist of Jupyter Notebooks. A Jupyter notebook is an inte
 
 ### Option 1: Install Anaconda on your machine
 
-**In case you prefer to use Jupyter Hub (in case you have university login credentials), you can skip this setup section.** If you'd like to write and test your code independently from the university infrastructure and start from scratch, install the Jupyter environment locally on your machine, following the instructions below:
+**In case you prefer to use AppHub (in case you have university login credentials), you can skip this setup section.** If you'd like to write and test your code independently from the university infrastructure and start from scratch, install the Jupyter environment locally on your machine, following the instructions below:
 
 **Linux**
 
@@ -47,21 +47,21 @@ A very useful extensions is "Hinterland" offering autocompletion like in the pop
 
 IPython widgets allow interactive GUI elements to be used in Jupyter notebooks which can be very useful for interactive data visualizations.
 
-### Option 2: Use JupyterHub from within the university intranet
+### Option 2: Use AppHub from within the university intranet
 
-**If you're already connected via Wifi to eduroam or via LAN in the university,** you can access the JupyterHub, a Jupyter Notebook server runnning in the university cloud. As a student or employee of the university, you can use your default login credentials to login here
+**If you're already connected via Wifi to eduroam or via LAN in the university,** you can access the AppHub, a Jupyter Notebook server runnning in the university cloud. As a student or employee of the university, you can use your default login credentials to login here
     
 [https://apphub.wolke.uni-greifswald.de/](https://apphub.wolke.uni-greifswald.de/)
 
 **then login with your credentials and choose "Datascience" as server type.**
     
-### Option 3: Use JupterHub remotely from home or anywhere else
+### Option 3: Use AppHub remotely from home or anywhere else
     
-**If you are not connected to eduroam - or - if you're working from home**, you have to install and setup a VPN client. Follow [these](https://rz.uni-greifswald.de/en/services/technical-infrastructure/vpn/) instructions to install and setup the VPN client for the university of Greifswald  before you can use the JupyterHub in the university cloud. **In any case you need the university login credentials to have VPN access to the university intranet.**
+**If you are not connected to eduroam - or - if you're working from home**, you have to install and setup a VPN client. Follow [these](https://rz.uni-greifswald.de/en/services/technical-infrastructure/vpn/) instructions to install and setup the VPN client for the university of Greifswald  before you can use the AppHub in the university cloud. **In any case you need the university login credentials to have VPN access to the university intranet.**
     
 ### Download the course materials
     
-**If you're using the JupyterHub**, either open a new Python 3 notebook and copy the lines
+**If you're using the AppHub**, either open a new Python 3 notebook and copy the lines
     
 ```
 %%bash
