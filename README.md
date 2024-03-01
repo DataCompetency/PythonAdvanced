@@ -1,7 +1,7 @@
 Advanced Python Course
 ----------------------
 
-This seminar was held at the university of Greifswald. The course materials can be used for independent self-study.
+Is sometimes held on-site at the university of Greifswald. The course materials can also be used for independent self-study.
 
 ## Requirements
 
