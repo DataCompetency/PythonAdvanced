@@ -80,4 +80,4 @@ Then simply open one of the Jupyter notebooks. **Have fun !**
 
 ### Create a Github account
 
-In order to follow the github crash course being part of this seminar, you should have your own github account. If you don't have one, signup beforehand.
+In order to follow the course on GitHub, consider to create your own GitHub account.
