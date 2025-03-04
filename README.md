@@ -7,6 +7,13 @@ Is sometimes held on-site at the university of Greifswald. The course materials 
 
 The participants of this course should be comfortable using Python for simple scripts and should know the procedural or functional programming style. In particular, they should be familiar with handling of built-in datatypes, variables, control flow structures, defining and structuring code in functions and creating and loading modules. 
 
+## Contents
+
+Session 1: Functions (incl. F-strings, Namespace, Call-by-sharing), Code style (incl. PEP8, Docstrings), Type Hinting, Exceptions, Decorators, Generators
+
+Session 2: Object oriented programming paradigm (incl. classes, objects, attributes;  Inheritance & Method prototyping, overriding and overloading;  Useful built-in attributes and methods; Getter and setter methods; Multiple Inheritance and Method Resolution Order (MRO)), Importing Modules and Namespaces, Parallelism
+
+Session 3: NumPy, Matplotlib, Pandas
 ## Preparations
 
 The course materials consist of Jupyter Notebooks. A Jupyter notebook is an interactive Python environment allowing to combine interactive execution of code along with formatted description texts, like an enriched, interactive lecture manuscript.
