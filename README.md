@@ -27,11 +27,7 @@ The course materials consist of Jupyter Notebooks. A Jupyter notebook is an inte
 
 **then login with your credentials and choose "Datascience" as server type.**
     
-### Option 2: Use AppHub remotely from home or anywhere else
-    
-**If you are not connected to eduroam - or - if you're working from home**, you have to install and setup a VPN client. Follow [these](https://rz.uni-greifswald.de/en/services/technical-infrastructure/vpn/) instructions to install and setup the VPN client for the university of Greifswald  before you can use the AppHub in the university cloud. **In any case you need the university login credentials to have VPN access to the university intranet.**
-
-### Option 3: Install Anaconda on your machine (e.g. to use materials later outside of UG)
+### Option 2: Install Anaconda on your machine (e.g. to use materials later outside of UG)
 
 **In case you prefer to use AppHub (in case you have university login credentials), you can skip this setup section.** If you'd like to write and test your code independently from the university infrastructure and start from scratch, install the Jupyter environment locally on your machine, following the instructions below:
 
