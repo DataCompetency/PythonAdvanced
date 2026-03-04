@@ -3,9 +3,13 @@ Advanced Python Course
 
 Is sometimes held on-site at the university of Greifswald. The course materials can also be used for independent self-study.
 
+## Relationship to PythonFromZero
+
+This course is a follow-up to [PythonFromZero](https://github.com/DataCompetency/PythonFromZero). Students who completed that course will find that Session 3 (NumPy, Matplotlib, Pandas) revisits the same topics and datasets — this is intentional so that Advanced can also be taken independently. If you are coming from PythonFromZero, you can treat Session 3 as a faster-paced refresher and focus on the exercises.
+
 ## Requirements
 
-The participants of this course should be comfortable using Python for simple scripts and should know the procedural or functional programming style. In particular, they should be familiar with handling of built-in datatypes, variables, control flow structures, defining and structuring code in functions and creating and loading modules. 
+The participants of this course should be comfortable using Python for simple scripts and should know the procedural or functional programming style. In particular, they should be familiar with handling of built-in datatypes, variables, control flow structures, defining and structuring code in functions and creating and loading modules.
 
 ## Contents
 
@@ -19,9 +23,9 @@ Session 3: NumPy, Matplotlib, Pandas
 
 The course materials consist of Jupyter Notebooks. A Jupyter notebook is an interactive Python environment allowing to combine interactive execution of code along with formatted description texts, like an enriched, interactive lecture manuscript.
 
-### Option 1: Use AppHub from within the university intranet
+### Option 1: Use AppHub (accessible from anywhere)
 
-**If you're already connected via Wifi to eduroam or via LAN in the university,** you can access the AppHub, a Jupyter Notebook server runnning in the university cloud. As a student or employee of the university, you can use your default login credentials to login here
+**As a student or employee of the university,** you can access the AppHub, a Jupyter Notebook server running in the university cloud, from anywhere. Use your default university login credentials here:
     
 [https://apphub.wolke.uni-greifswald.de/](https://apphub.wolke.uni-greifswald.de/)
 
